@@ -46,10 +46,11 @@ PNGpdb = fileparse['pdb']
 
 returns a string representation of a pdb fileformat using key 'pdb' and assigns it to a                                 variable PNGpdb
 
-EXEMPLE USAGE:
+EXAMPLE USAGE:
 --------------
 
 example.py
+
 example2.py -s source direcotry -d destination directory
 
 -s source directory	
