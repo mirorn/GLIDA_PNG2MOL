@@ -925,7 +925,7 @@ else:
 		for line in range(0,linesCount):
 			for charPos in range(0,charsCount):
 				textFile += readChar(frame, line, charPos)
-				if badChar >=5:
+				if badChar >=1:
 					fileListB.append(i)
 					fileListB=list(set(fileListB))
 				else:
